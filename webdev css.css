@@ -1,0 +1,143 @@
+body {
+    margin: 0%;
+    padding: 0%;
+  }
+  
+  .container {
+    height: 1000px;
+    width: 100%;
+  }
+  
+  .container1 {
+    height: 300px;
+    width: 100%;
+    /* border: solid red 2px; */
+  }
+  
+  h2{
+    margin: 5px;
+    text-align: center;
+  }
+  p{
+    margin: 10px;
+    text-align: center;
+  }
+  
+  .box1 {
+    height: 250px;
+    width: 24%;
+    border: black solid 1px;
+    float: left;
+  }
+  
+  .box2 {
+    height: 250px;
+    width: 24%;
+    border: black solid 1px;
+    float: left;
+  }
+  
+  .box3 {
+    height: 250px;
+    width: 24%;
+    border: black solid 1px;
+    float: left;
+  }
+  
+  .box4 {
+    height: 250px;
+    width: 24%;
+    border: black solid 1px;
+    float: left;
+  }
+  
+  /* container 2 */
+  
+  .container2 {
+    height: 300px;
+    width: 100%;
+    /* border: solid green 2px; */
+  }
+  .box5{
+    height: 250px;
+    width: 24%;
+    float: left;
+  }
+  .box6{
+    height: 250px;
+    width: 24%;
+    float: left;
+  }
+  .box7{
+    height: 250px;
+    width: 24%;
+    float: left;
+  }
+  .box8{
+    height: 250px;
+    width: 24%;
+    float: left;
+  }
+  .pic{
+    color: white;
+    background-color: black;
+    margin: 1px;
+  }
+  .container3 {
+    height: 300px;
+    width: 100%;
+    /* border: solid brown 2px; */
+  }
+  .box9{
+    height: 250px;
+    width: 24%;
+    float: left;
+  }
+  .box10{
+    height: 250px;
+    width: 24%;
+    float: left;
+  }
+  .box11{
+    height: 250px;
+    width: 24%;
+    float: left;
+  }
+  .box12{
+    height: 250px;
+    width: 24%;
+    float: left;
+  }
+  .container4 {
+    height: 300px;
+    width: 100%;
+    /* border: solid brown 2px; */
+  }
+  .box13{
+    height: 250px;
+    width: 24%;
+    float: left;
+    display: flex;
+    align-items: center;
+  }
+  .box14{
+    height: 250px;
+    width: 24%;
+    float: left;
+    display: flex;
+    align-items: center;
+  }
+  .box15{
+    height: 250px;
+    width: 24%;
+    float: left;
+    display: flex;
+    align-items: center;
+  }
+  .box16{
+    height: 250px;
+    width: 24%;
+    float: left;
+    display: flex;
+    align-items: center;
+  }
